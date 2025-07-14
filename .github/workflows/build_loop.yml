@@ -290,7 +290,6 @@ jobs:
           meal_days \
           profiles \
           negative_insulin
-          
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
         run: |
