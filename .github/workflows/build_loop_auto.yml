@@ -245,7 +245,6 @@ jobs:
           2hlollipop \
           profiles \
           negative_insulin \ 
-          cgm_sensor_notes \
           remote_window \
           remote_carb_edit
         
