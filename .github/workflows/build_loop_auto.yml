@@ -244,7 +244,7 @@ jobs:
           now_line \
           2hlollipop \
           profiles \
-          negative_insulin \ 
+          negative_insulin \
           remote_window \
           remote_carb_edit
         
